@@ -1,5 +1,7 @@
 SHELL PROJECT
-Objectives There are three objectives to this assignment: To familiarize ourselves with the Linux programming environment.
+
+Objectives
+There are three objectives to this assignment: To familiarize ourselves with the Linux programming environment.
 
 To learn how processes are created, destroyed, and managed.
 
